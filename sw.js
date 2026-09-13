@@ -1,5 +1,5 @@
 // Basic service worker for offline caching of the app shell
-const CACHE_NAME = 'henrys-it-v3';
+const CACHE_NAME = 'henrys-it-v5';
 const urlsToCache = [
   './',
   './index.html',
